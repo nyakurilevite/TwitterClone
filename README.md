@@ -1,4 +1,4 @@
-# learn_flutter_web
+# Twitter clone with Flutter web
 
 A new Flutter project.
 
